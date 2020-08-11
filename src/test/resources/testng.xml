@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RestAssuredTest">
+	<test name="test">
+		<classes>
+			<class name="com.tilak.TestGetRequest" />
+			<class name="com.tilak.TestPostRequest" />
+		</classes>
+	</test>
+</suite>

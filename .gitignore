@@ -1,0 +1,8 @@
+.class
+.settings
+.classpath
+.jar
+.DS_Store
+target/*
+.html
+test-output/*
